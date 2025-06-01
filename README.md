@@ -12,7 +12,7 @@
 
 引诱玩过 phigros（rks 12+ 菜的没边） 和冰与火之舞（刚进新手村）。
 
-io 玩过 generals（甚至 1v1 最高才 45 stars） 和 florr（甚至连青套都没有）
+io 玩过 generals（甚至 1v1 最高才 45 stars） 和 florr（只有一套 m traingle 轮 QwQ）
 
 ~~BTW, I use ARCHLINUX.~~（也很菜啦）
 
