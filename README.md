@@ -2,8 +2,6 @@
 
 啊呀呀呀，是一名中国江西的 OIer，最好成绩是 APIO25 141 中国区银牌！
 
-喜欢听 breakcore, hardcore, speedcore, artcore, 有时听术力口和 trance。（很菜，轻喷
-
 看过的番很少，一问三不知。
 
 会用 c++。python，css 仅限会基本语法（没有开发的能力
